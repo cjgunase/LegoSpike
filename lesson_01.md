@@ -8,6 +8,7 @@ This lesson introduces the fundamental concepts of controlling the LEGO Spike Pr
 
 ```text
 when program starts
+  set driving motors to C+D
   set drive speed to 50%
   start moving forward
   wait 1 second
