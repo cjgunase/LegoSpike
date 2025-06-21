@@ -19,6 +19,7 @@ when program starts
 
 ```text
 when program starts
+  set driving motors to C+D
   set drive speed to 50%
   start moving backward
   wait 1 second
